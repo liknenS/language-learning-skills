@@ -1,0 +1,13 @@
+{
+  "name": "language-learning-skills",
+  "owner": { "name": "liknenS", "url": "https://github.com/liknenS" },
+  "metadata": { "description": "Agent skills for learning a foreign language" },
+  "plugins": [
+    {
+      "name": "language-learning",
+      "source": "./",
+      "description": "Vocabulary coach, pronunciation coach, speaking partner, lesson builder, study planner and exam prep for language learners",
+      "category": "education"
+    }
+  ]
+}

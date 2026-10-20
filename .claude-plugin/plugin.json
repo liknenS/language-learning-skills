@@ -1,0 +1,10 @@
+{
+  "name": "language-learning",
+  "version": "1.0.0",
+  "description": "Skills for learning a foreign language with an AI agent: vocabulary with spaced repetition, pronunciation, speaking role-plays, lessons, study plans and exam prep. Work on their own; stronger with the optional Talkfirst MCP connector.",
+  "author": { "name": "liknenS", "url": "https://github.com/liknenS" },
+  "homepage": "https://github.com/liknenS/language-learning-skills",
+  "repository": "https://github.com/liknenS/language-learning-skills",
+  "license": "MIT",
+  "keywords": ["language-learning", "education", "vocabulary", "spaced-repetition", "pronunciation", "speaking", "exam", "polish", "lithuanian", "czech", "english"]
+}

@@ -1,6 +1,6 @@
 ---
 name: lesson-builder
-description: Builds a short lesson in a foreign language - a grammar point, phrases for a situation, or the learner's weak spots - as a script with explanation, examples, a "repeat after me" part and a quick exercise, and as an audio lesson when a lesson tool is available. Use when the learner asks "explain the past tense", "make me a lesson on ...", "a 5-minute lesson for my commute", "go over my mistakes". Also for "сделай урок", "зроби урок", "lekcja o ...".
+description: Lesson builder for a foreign language - a 5-10 minute lesson on one grammar point, a situation or the learner's weak spots, with explanation, examples, a "repeat after me" part and a quick exercise; an audio lesson when a lesson tool is available. Use this skill whenever a language learner asks to explain a grammar topic, wants a lesson or a lecture, something to listen to on the way, or a review of their mistakes. Also for "объясни прошедшее время", "зроби урок", "lekcja o czasie przeszłym".
 license: MIT
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: exam-prep
-description: Prepares a learner for a language exam (residence-permit and citizenship exams such as Lithuanian A2 and the Lithuanian Constitution test, Polish B1 certificate, Czech A2 for permanent residence, or IELTS-style speaking) - format, timed mock tasks, examiner-style questions, feedback against the task. Use when the learner says "I have an exam", "mock exam", "practise the speaking part", "what will they ask", "prepare me for B1". Also for "подготовка к экзамену", "підготовка до іспиту", "egzamin z polskiego".
+description: Exam prep for a language exam (residence-permit and citizenship exams such as Lithuanian A2 and the Lithuanian Constitution test, the Polish B1 certificate, Czech A2 for permanent residence, or IELTS-style speaking) - format, timed mock tasks, examiner-style questions, feedback against the task. Use this skill whenever a language learner mentions an upcoming language exam, asks for a mock exam, wants to practise an exam part or asks what the examiner will ask. Also for "подготовка к экзамену", "підготовка до іспиту", "egzamin z polskiego".
 license: MIT
 ---
 

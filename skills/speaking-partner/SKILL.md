@@ -1,6 +1,6 @@
 ---
 name: speaking-partner
-description: Runs a role-play conversation in a foreign language (job interview, landlord, doctor, small talk, a meeting) at the learner's level, with target phrases and a short review of their lines afterwards. Use when the learner says "let's talk", "role-play a ...", "practice a conversation", "be my speaking partner", "rehearse an interview". Also for "давай поговорим", "поговорімо", "porozmawiajmy".
+description: Speaking partner for a foreign language - runs a role-play with a task (job interview, landlord, doctor, small talk, a meeting) at the learner's level, with target phrases and a short review of the learner's lines afterwards. Use this skill whenever a language learner wants to talk, practise a conversation, role-play a situation or rehearse an interview in the language they study. Also for "давай поговорим по-английски", "поговорімо польською", "porozmawiajmy".
 license: MIT
 ---
 

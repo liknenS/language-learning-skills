@@ -1,6 +1,6 @@
 ---
 name: study-planner
-description: Sets a language-learning goal (target level and deadline) and agrees a realistic weekly plan - minutes of own speech, quizzes, conversations, lessons - then checks plan against what was actually done. Use when the learner says "make me a study plan", "I need B2 by June", "how much should I practise", "am I on track", "plan my week". Also for "составь план", "склади план навчання", "plan nauki".
+description: Study planner for a foreign language - sets a goal (target level and deadline) and agrees a realistic weekly plan - minutes of own speech, quizzes, conversations, lessons - then compares the plan with what was done. Use this skill whenever a language learner asks for a study plan or schedule, names a target level or date ("B2 by June"), asks how much to practise or whether they are on track. Also for "составь план занятий", "склади план навчання", "plan nauki".
 license: MIT
 ---
 

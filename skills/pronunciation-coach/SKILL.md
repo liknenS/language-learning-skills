@@ -1,6 +1,6 @@
 ---
 name: pronunciation-coach
-description: Coaches pronunciation of phrases in a foreign language - sounds, stress, minimal pairs, word-by-word feedback on a recording when a scoring tool is available. Use when the learner asks "how do I pronounce this", "check my pronunciation", "I can't say this sound", "practice saying phrases", or wants to drill phrases aloud. Also for "как это произносится", "перевір вимову", "jak to wymówić".
+description: Pronunciation coach for a foreign language - sounds, stress, minimal pairs, short repeat-and-fix loops, and word-by-word feedback on a recording when a scoring tool is available. Use this skill whenever a language learner asks how to pronounce something, wants their pronunciation checked, struggles with a sound or accent, or wants to practise saying phrases aloud. Also for "как это произносится", "перевір вимову", "jak to wymówić".
 license: MIT
 ---
 
